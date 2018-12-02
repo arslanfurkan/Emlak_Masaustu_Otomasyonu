@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakOtomasyonu_163301012", "EmlakOtomasyonu_163301012\EmlakOtomasyonu_163301012.csproj", "{0466FE4C-E5AC-4C08-A66E-7005194F7977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{F3B8C280-A3C2-44C1-A713-423478E0A972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0466FE4C-E5AC-4C08-A66E-7005194F7977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0466FE4C-E5AC-4C08-A66E-7005194F7977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0466FE4C-E5AC-4C08-A66E-7005194F7977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0466FE4C-E5AC-4C08-A66E-7005194F7977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B8C280-A3C2-44C1-A713-423478E0A972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B8C280-A3C2-44C1-A713-423478E0A972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B8C280-A3C2-44C1-A713-423478E0A972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B8C280-A3C2-44C1-A713-423478E0A972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A2BABF-AD55-4B2D-AFC0-F12F8BF97D22}
+	EndGlobalSection
+EndGlobal
